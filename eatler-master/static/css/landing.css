@@ -1,0 +1,29 @@
+body{
+    font-family: cursive;
+}
+.picture{
+    position: relative;
+    
+}
+.companyName{
+    position: absolute;
+    top: 26%;
+  left: 19%;
+}
+.white{
+    color: white;
+}
+
+.jumbotron{
+    background-color: black;
+}
+
+.borderless > tbody > tr > td,
+.borderless > tbody > tr > th,
+.borderless > tfoot > tr > td,
+.borderless > tfoot > tr > th,
+.borderless > thead > tr > td,
+.borderless > thead > tr > th {
+    border: none;
+}
+
